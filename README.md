@@ -1,6 +1,6 @@
 
 
-# symfony Projet 1
+# Symfony Projet 1
 ### Création d'un blog
 #
 
